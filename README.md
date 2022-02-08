@@ -1,2 +1,2 @@
-# ristianingsih_metodebagidua.github.io
+# ristianingsih.github.io
 Web perhitungan Metode bagi dua
